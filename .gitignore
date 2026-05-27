@@ -1,3 +1,14 @@
 .obsidian/
 .trash/
 .DS_Store
+
+
+
+
+# Smart Environment folder
+.smart-env
+
+# Personal (not for public)
+.claudian/
+日记/
+模板/
